@@ -362,7 +362,7 @@ $dokka.location:idroid.android.mapskit.ui////PointingToDeclaration/mapskit/idro
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleMapView///PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-map-view/index.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleMapView/HuaweiGoogleMapView/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-map-view/-huawei-google-map-view.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleMapView/getMapAsync/#kotlin.Function1[idroid.android.mapskit.factory.Maps,kotlin.Unit]/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-map-view/get-map-async.html
-$dokka.location:idroid.android.mapskit.ui/HuaweiGoogleMapView/onCreate/#android.os.Bundle/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-map-view/on-create.html
+$dokka.location:idroid.android.mapskit.ui/HuaweiGoogleMapView/onCreate/#android.os.Bundle?/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-map-view/on-create.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleMapView/onDestroy/#/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-map-view/on-destroy.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleMapView/onEnterAmbient/#android.os.Bundle?/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-map-view/on-enter-ambient.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleMapView/onLowMemory/#/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-map-view/on-low-memory.html
@@ -373,7 +373,7 @@ $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleMapView/onStop/#/PointingT
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleSupportMapFragment///PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-support-map-fragment/index.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleSupportMapFragment/HuaweiGoogleSupportMapFragment/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-support-map-fragment/-huawei-google-support-map-fragment.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleSupportMapFragment/getMapAsync/#kotlin.Function1[idroid.android.mapskit.factory.Maps,kotlin.Unit]/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-support-map-fragment/get-map-async.html
-$dokka.location:idroid.android.mapskit.ui/HuaweiGoogleSupportMapFragment/onCreate/#android.os.Bundle/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-support-map-fragment/on-create.html
+$dokka.location:idroid.android.mapskit.ui/HuaweiGoogleSupportMapFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-support-map-fragment/on-create.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleSupportMapFragment/onDestroy/#/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-support-map-fragment/on-destroy.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleSupportMapFragment/onEnterAmbient/#android.os.Bundle?/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-support-map-fragment/on-enter-ambient.html
 $dokka.location:idroid.android.mapskit.ui/HuaweiGoogleSupportMapFragment/onLowMemory/#/PointingToDeclaration/mapskit/idroid.android.mapskit.ui/-huawei-google-support-map-fragment/on-low-memory.html
